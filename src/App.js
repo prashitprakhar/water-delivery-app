@@ -13,6 +13,4 @@ class App extends Component {
     }
 }
 
-//Hello for testing
-
 export default App;
